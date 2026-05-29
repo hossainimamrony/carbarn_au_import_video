@@ -6,12 +6,15 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@remotion/cli": "4.0.465",
     "@remotion/media": "^4.0.466",
     "@remotion/tailwind-v4": "4.0.465",
+    "dotenv": "^17.4.2",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "remotion": "4.0.465",
+    "sharp": "^0.34.5",
     "tailwindcss": "4.0.0"
   },
   "devDependencies": {

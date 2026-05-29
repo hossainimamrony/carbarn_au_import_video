@@ -1,0 +1,120 @@
+{
+  "theme": {
+    "background_style": "pulse",
+    "primary_color": "#007bff"
+  },
+  "scenes": [
+    {
+      "scene_id": "scene_1",
+      "sentences": [
+        {
+          "text": "Dreaming of a pristine JDM legend but sick of Australia's overpriced, thrashed local market?",
+          "visual_assets": [
+            {
+              "keyword": "jdm legend",
+              "filename": "scene_1_asset_1.png",
+              "prompt": "A pristine, classic JDM legend car, like a Nissan Skyline R34 or Toyota Supra MK4, highly detailed, realistic rendering, isolated on a solid white background, die-cut style, studio lighting.",
+              "needs_transparency": true
+            },
+            {
+              "keyword": "overpriced",
+              "filename": "scene_1_asset_2.png",
+              "prompt": "A stylized graphic icon representing high prices, like a dollar sign with an upward-pointing arrow and several currency symbols, red color, bold and sharp lines, isolated on a solid white background, die-cut style.",
+              "needs_transparency": true
+            },
+            {
+              "keyword": "thrashed",
+              "filename": "scene_1_asset_3.png",
+              "prompt": "A graphic icon representing something damaged or worn out, like a broken gear or a rusty wrench, with visible cracks and scratches, dark and grimy texture, isolated on a solid white background, die-cut style.",
+              "needs_transparency": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_2",
+      "sentences": [
+        {
+          "text": "Stop settling.",
+          "visual_assets": [
+            {
+              "keyword": "settling",
+              "filename": "scene_2_asset_1.png",
+              "prompt": "A mundane, generic, and slightly faded sedan car, depicted as uninspired and ordinary, representing the concept of 'settling' for less, isolated on a solid white background, die-cut style, neutral lighting, 8k, photorealistic.",
+              "needs_transparency": true
+            }
+          ]
+        },
+        {
+          "text": "Carbarn AU sources premium, high-grade beasts directly from Japan’s exclusive auctions.",
+          "visual_assets": [
+            {
+              "keyword": "beasts",
+              "filename": "scene_2_asset_2.png",
+              "prompt": "An ultra-modern, aggressive-looking high-performance Japanese sports car, like a modified JDM drift car or a supercar, showing immense power and precision, representing a 'beast', isolated on a solid white background, die-cut style, dynamic angle, studio lighting, hyper-realistic, 8k.",
+              "needs_transparency": true
+            },
+            {
+              "keyword": "japan's exclusive auctions",
+              "filename": "scene_2_asset_3.png",
+              "prompt": "A stylized illustration of a high-end auction house environment in Japan, focusing on a raised podium with a minimalist gavel, subtly incorporating Japanese design motifs, representing 'Japan's exclusive auctions', isolated on a solid white background, die-cut style, elegant, modern, 8k.",
+              "needs_transparency": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_3",
+      "sentences": [
+        {
+          "text": "From shipping to compliance, they handle it all so you just get the keys.",
+          "visual_assets": [
+            {
+              "keyword": "shipping",
+              "filename": "scene_3_asset_1.png",
+              "prompt": "A modern, minimalist icon representing global shipping, with a stylized cargo container and a world map outline, isolated on a solid white background, die-cut style, highly detailed.",
+              "needs_transparency": true
+            },
+            {
+              "keyword": "compliance",
+              "filename": "scene_3_asset_2.png",
+              "prompt": "A sleek, professional icon representing legal compliance, with a document showing a checkmark and a gavel or scales of justice, isolated on a solid white background, die-cut style, highly detailed.",
+              "needs_transparency": true
+            },
+            {
+              "keyword": "keys",
+              "filename": "scene_3_asset_3.png",
+              "prompt": "A close-up, hyper-realistic 3D render of a modern car key fob with a prominent unlock button, isolated on a solid white background, studio lighting, die-cut style.",
+              "needs_transparency": true
+            }
+          ]
+        },
+        {
+          "text": "Import your dream ride today with Carbarn AU.",
+          "visual_assets": [
+            {
+              "keyword": "import",
+              "filename": "scene_3_asset_4.png",
+              "prompt": "An illustrative icon depicting a car being unloaded from a shipping container or a cargo ship, symbolizing international vehicle import, isolated on a solid white background, die-cut style, vibrant colors.",
+              "needs_transparency": true
+            },
+            {
+              "keyword": "dream ride",
+              "filename": "scene_3_asset_5.png",
+              "prompt": "A low-angle, cinematic shot of a generic, luxurious sports car (e.g., a sleek, modern coupe) in an aspirational metallic color, gleaming under soft light, isolated on a solid white background, die-cut style.",
+              "needs_transparency": true
+            },
+            {
+              "keyword": "carbarn au",
+              "filename": "scene_3_asset_6.png",
+              "prompt": "A clean, modern 3D render of a stylized logo or text for 'Carbarn AU', incorporating subtle elements related to cars or a barn structure, professional and sleek design, isolated on a solid white background, die-cut style.",
+              "needs_transparency": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
