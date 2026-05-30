@@ -8,7 +8,7 @@
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "@remotion/cli": "4.0.465",
-    "@remotion/media": "^4.0.466",
+    "@remotion/media": "4.0.465",
     "@remotion/tailwind-v4": "4.0.465",
     "dotenv": "^17.4.2",
     "react": "19.2.3",
